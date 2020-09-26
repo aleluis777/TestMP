@@ -1,0 +1,6 @@
+module MLCardDrawer {
+  umbrella header "MLCardDrawer-umbrella.h"
+
+  export *
+  module * { export * }
+}

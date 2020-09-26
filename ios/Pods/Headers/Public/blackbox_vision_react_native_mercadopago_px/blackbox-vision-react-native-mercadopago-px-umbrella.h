@@ -1,0 +1,1 @@
+../../../Target Support Files/blackbox-vision-react-native-mercadopago-px/blackbox-vision-react-native-mercadopago-px-umbrella.h

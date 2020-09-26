@@ -1,0 +1,6 @@
+module FXBlurView {
+  umbrella header "FXBlurView-umbrella.h"
+
+  export *
+  module * { export * }
+}

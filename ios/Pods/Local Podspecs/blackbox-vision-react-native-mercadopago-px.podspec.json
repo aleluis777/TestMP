@@ -1,0 +1,32 @@
+{
+  "name": "blackbox-vision-react-native-mercadopago-px",
+  "version": "0.6.0",
+  "summary": "MercadoPago payment experience bridge for react-native",
+  "homepage": "https://github.com/BlackBoxVision/react-native-mercadopago-px#readme",
+  "license": "MIT",
+  "authors": {
+    "name": "Jonatan Salas &lt;jonatan.salas@blackbox-vision.tech&gt;",
+    "email": "jonatan.salas@blackbox-vision.tech",
+    "url": "https://github.com/JonatanSalas"
+  },
+  "social_media_url": "https://twitter.com/blackbox_vision",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/BlackBoxVision/react-native-mercadopago-px.git",
+    "tag": "0.6.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "swift_versions": "4.2",
+  "dependencies": {
+    "React": [
+
+    ],
+    "MercadoPagoSDK": [
+      "4.32.4"
+    ]
+  },
+  "static_framework": false,
+  "swift_version": "4.2"
+}

@@ -1,0 +1,6 @@
+module Pods_Braindtic_BraindticTests {
+  umbrella header "Pods-Braindtic-BraindticTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

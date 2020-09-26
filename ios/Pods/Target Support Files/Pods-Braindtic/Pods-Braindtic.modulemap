@@ -1,0 +1,6 @@
+module Pods_Braindtic {
+  umbrella header "Pods-Braindtic-umbrella.h"
+
+  export *
+  module * { export * }
+}

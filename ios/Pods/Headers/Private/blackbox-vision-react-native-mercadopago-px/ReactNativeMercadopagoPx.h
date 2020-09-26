@@ -1,0 +1,1 @@
+../../../../../node_modules/@blackbox-vision/react-native-mercadopago-px/ios/ReactNativeMercadopagoPx.h

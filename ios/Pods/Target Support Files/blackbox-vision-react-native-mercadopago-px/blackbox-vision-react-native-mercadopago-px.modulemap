@@ -1,0 +1,6 @@
+module blackbox_vision_react_native_mercadopago_px {
+  umbrella header "blackbox-vision-react-native-mercadopago-px-umbrella.h"
+
+  export *
+  module * { export * }
+}

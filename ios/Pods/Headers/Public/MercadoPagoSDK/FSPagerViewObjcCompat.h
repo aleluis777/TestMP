@@ -1,0 +1,1 @@
+../../../MercadoPagoSDK/MercadoPagoSDK/MercadoPagoSDK/UI/PXCardSlider/FSPager/FSPagerViewObjcCompat.h

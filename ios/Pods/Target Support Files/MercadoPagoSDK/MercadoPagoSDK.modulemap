@@ -1,0 +1,6 @@
+module MercadoPagoSDK {
+  umbrella header "MercadoPagoSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
